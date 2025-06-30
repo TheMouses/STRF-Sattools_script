@@ -1,7 +1,7 @@
 # STRF-Sattools_script
 .sh files so you can easily switch between the environments for STRF and SatTools. These files will set the proper environment variables for each toolkit.
 
-1. Doanlowd both .sh files and place them in the home folder
+# 1. Doanlowd both .sh files and place them in the home folder
 
 # 2. Make executable
 chmod +x ~/sattools-env.sh
